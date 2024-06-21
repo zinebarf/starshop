@@ -1,4 +1,4 @@
-#!/usr/bin/env php
+php bin/console debug:routerphp bin/console debug:autowiring#!/usr/bin/env php
 <?php
 
 use App\Kernel;
