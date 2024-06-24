@@ -1,8 +1,5 @@
 <?php
-
 namespace App\Model;
-
-use App\Model\StarshipStatusEnum;
 
 class Starship
 {
